@@ -1,0 +1,13 @@
+C:\Users\Nikola\source\repos\Products\Products\bin\Debug\netcoreapp3.1\Products.exe
+C:\Users\Nikola\source\repos\Products\Products\bin\Debug\netcoreapp3.1\Products.deps.json
+C:\Users\Nikola\source\repos\Products\Products\bin\Debug\netcoreapp3.1\Products.runtimeconfig.json
+C:\Users\Nikola\source\repos\Products\Products\bin\Debug\netcoreapp3.1\Products.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Products\Products\bin\Debug\netcoreapp3.1\Products.dll
+C:\Users\Nikola\source\repos\Products\Products\bin\Debug\netcoreapp3.1\Products.pdb
+C:\Users\Nikola\source\repos\Products\Products\obj\Debug\netcoreapp3.1\Products.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Products\Products\obj\Debug\netcoreapp3.1\Products.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Products\Products\obj\Debug\netcoreapp3.1\Products.dll
+C:\Users\Nikola\source\repos\Products\Products\obj\Debug\netcoreapp3.1\Products.pdb
+C:\Users\Nikola\source\repos\Products\Products\obj\Debug\netcoreapp3.1\Products.genruntimeconfig.cache
